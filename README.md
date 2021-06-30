@@ -48,23 +48,17 @@ Esto con el fin de que, una vez entrenado el modelo, a partir de cuaqluier image
    
 ---
   
-### Objectivos por Módulos:
+### Objectivos por módulos:
   
- > NOTA: Los archivos **`.ipynb`** pueden tardar en cargar en github, reintentar abrir si marca error de lo contrario abrilos en [**`Colab by Google`**](https://colab.research.google.com/)
-
--  [**`Ropas_Extra_Parte_4.ipynb`**](proyecto/Ropas_Extra_Parte_4.ipynb)
-   Contiene todas las gráficas y resultados sobre puntos estrategicos generados por el estudio de mercado del estado de Nuevo León. [**`Ver en Colab Aquí`**](https://colab.research.google.com/drive/1ijQ4b2bzkBR8L0fxwIjlBBJ9l4N2nz7h?usp=sharing)
-   
--  [**`Scrapping_google_populartimes.ipynb`**](proyecto/Scrapping_google_populartimes.ipynb)
-   Contiene la metodología para extraer la información del API de google relacionada a las riendas de ropa del estado de Nuevo León. [**`Ver en Colab Aquí`**](https://colab.research.google.com/github/Deltarios/analisis_ropa_bedu_2/blob/master/proyecto/Scrapping_google_populartimes.ipynb)
-   
--  [**`puntos_clave_publicidad.html`**](proyecto/puntos_clave_publicidad.html)
-   Mapa con los resultados sobre puntos estrategicos generados por el estudio de mercado del estado de Nuevo León (Se generá igualmente con     [**`Proyecto.ipynb`**](proyecto/proyecto.ipynb)).
-
--  [**`Archivos NUEVOLEON2`**](proyecto/Scrapping_google_populartimes.ipynb)
-   Archivos necesarios para hacer correr el script [**`Proyecto.ipynb`**](proyecto/proyecto.ipynb) <span style="color:red;">*importante que esten en la misma carpeta.</span>
-
--  [**`Datasets`**](dataset)
-   Grupo de datasets utilizados en el proyecto (El código se llaman en red, pero se incluye los datasets de la información si se requieren).
+- [**`MODULO 1`**](https://github.com/Deltarios/analisis-ropa-bedu)
+  Se busco encontrar una ubicación geográfica idónea y estratégica a nivel estatal para la apertura de nuevos establecimientos de esta índole.
+  
+- [**`MODULO 2`**](https://github.com/Deltarios/analisis_ropa_bedu_2)
+  La creación de un concepto como una marca específica que se inserte en el mercado, ofertando  en una misma línea  “Marca y  Publicidad “
+  Analisis de las ventas en linea de ropa
+  
+- [**`MODULO 3`**](https://github.com/Deltarios/analisis_ropa_bedu_3)
+  Analisis de MUNICIPIO VS CANTIDAD DE PERSONAL VS DIMENSION DE TIENDA
+  Ubicación de centros de distribución basada en una comparativa de las ubicaciones de una fábrica/almacen y  puntos de venta.
    
 ---
