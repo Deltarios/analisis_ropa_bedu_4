@@ -65,3 +65,34 @@ Partimos de la importancia de dignificar el vestir de una persona con sobrepeso,
 -  [**`Sistema recomendación de vestidos`**](https://drive.google.com/drive/folders/1gZV2V5KCdSSxVvSXHvkmTK68ANvJtIpq)
    
 ---
+  
+### Desarrollo: 
+
+> NOTA: Esto es en modo de resúmen, dentro de los Scripts se encuentra explicado cada detalle de la obtención de la información.
+  
+#### _SISTEMA SEGMENTADOR DE VESTIDOS_
+Para esta parte del proyecto realizaremos un Sistema Segmentador de Vestidos, que consiste en recibir como entrada imágenes de personas usando vestidos, y a partir de estás identificar que parte es el vestido, que parte es la piel, que parte es la persona y que parte es el fondo.
+
+Esto con el fin de que, una vez entrenado el modelo, a partir de cuaqluier imagen cargada se pueda identificar únicamente el vestido.
+
+El principal desafió en este problema de segmentación estará en el ruido de las imágenes, ej. confundir el cabello con parte del vestido, accesorios que tengan las personas, fondos de colores poco contrastantes respecto al color del vestido, etc. Por ello, buscamos apoyarnos de distintos métodos que nos ayuden a procesar de mejor forma las imágenes.
+
+Este segmentador es muy útil, ya que nos puede servir para identificar únicamente el vestido y en complemento al "Sistema de Recomendación de Vestidos" buscar vestidos similares al vestido original. ¿Pero porqué no simplemente utilizar la imágen de la persona completa? Porque para buscar la similitud de vestidos, necesitamos eliminar el ruido, es decir el entorno y a la persona misma, solo dejando el producto.
+
+Y es muy versatil, ya que se pueden utilizar estos programas en una aplicación en la que solo tomas una foto con tu celular y te muestra todos los vestidos similares que se encuentran en determinada tienda.
+  
+#### _SISTEMA DE RECOMENDACIÓN DE VESTIDOS_
+
+Para esta parte del proyecto, crearemos un sistema de recomendación de vestidos que consistirá en buscar vestidos similares con base en la selección de un vestido en específico, todo esto a través del análisis de imágenes.
+
+Para esto, utilizaremos una de las bases de Zalando (empresa de venta de ropa en línea en Europa). En el Clasificador de Ropa ya utilizamos la base de datos Fashion-Mnist que consiste en un conjunto de imágenes en bruto de 10 categorías de ropa. Sin embargo, en esta ocasión utilizaremos otro conjunto de datos que es "Feidegger" que consiste en un conjunto de datos compuesto por imágenes y descripciones exclusivamente de Vestidos.
+
+
+#### _¿Cuáles son los pasos y objetivos de nuestro  estudio?_
+
+- Mediante un estudio se encontrará la ubicación  geográfica puntual a nivel municipal para la apertura del establecimiento, asimismo encontrando puntos de publicidad para la  difusión del concepto de la Comercialización  de tallas extras.
+
+- Tomar la opción que englobe todas las ventajas tanto para la parte comercializadora como para el consumidor en la creación de un concepto como una marca específica que se inserte en el mercado, y en los establecimientos ya aberturados que cuenten con mayor tiempo en el mercado y además con cierto prestigio, así ofertando en una misma línea "Marca y  Publicidad" lo que implicaría una reducción de costos.
+
+- Selección puntual de la ubicación de la tienda
+_(Para poder llevar a cabo estos dos puntos se procedió elegir un estado del Top 5 generado en el proyecto anterior para su análisis.)_
