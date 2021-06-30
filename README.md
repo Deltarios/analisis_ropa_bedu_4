@@ -33,12 +33,15 @@ Partimos de la importancia de dignificar el vestir de una persona con sobrepeso,
 -  [**`Segmentar vestido.ipynb`**](proyecto/Segmentar%20vestido.ipynb)
    Para esta parte del proyecto realizaremos un Sistema Segmentador de Vestidos, que consiste en recibir como entrada imágenes de personas usando vestidos, y a partir de estás identificar que parte es el vestido, que parte es la piel, que parte es la persona y que parte es el fondo.
 
-Esto con el fin de que, una vez entrenado el modelo, a partir de cuaqluier imagen cargada se pueda identificar únicamente el vestido.     [**`Proyecto.ipynb`**](https://colab.research.google.com/drive/1AaCHDD5Ll1BkBOram96JneoSBhoeUSAV)).
+Esto con el fin de que, una vez entrenado el modelo, a partir de cuaqluier imagen cargada se pueda identificar únicamente el vestido.     
   
 -  [**`Sistema de recomendación vestidos.ipynb`**](proyecto/Sistema%20de%20recomendación%20vestidos.ipynb)
-   Para esta parte del proyecto, crearemos un sistema de recomendación de vestidos que consistirá en buscar vestidos similares con base en la selección de un vestido en específico, todo esto a través del análisis de imágenes.     [**`Proyecto.ipynb`**](https://colab.research.google.com/drive/1AaCHDD5Ll1BkBOram96JneoSBhoeUSAV)).
+   Para esta parte del proyecto, crearemos un sistema de recomendación de vestidos que consistirá en buscar vestidos similares con base en la selección de un vestido en específico, todo esto a través del análisis de imágenes.
 
-[**`Datasets`**](dataset)
+-  [**` CLASIFICADOR DE ROPA_1.ipynb`**](proyecto/CLASIFICADOR_DE_ROPA_1.ipynb)
+   En esta parte se buscara facilitar el proceso de alta de productos de manera automatizada en un punto de venta basando en una clasificación programada, mediante el procesamiento de imágenes y redes neuronales, permitiéndole al Usuario poder ordenar sus productos por categoría de manera autónoma.  
+  
+[**`Datasets`**]
    
   Grupo de datasets utilizados en el proyecto (El código se llaman en red, pero se incluye los datasets de la información si se requieren).
   
