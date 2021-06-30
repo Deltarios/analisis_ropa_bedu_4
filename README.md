@@ -89,6 +89,9 @@ Para esto, utilizaremos una de las bases de Zalando (empresa de venta de ropa en
 
 
 #### _¿Cuáles son los pasos y objetivos de nuestro  estudio?_
+  
+  <img src="assets/image.png" align="center" height="250" width="350" hspace="10">
+  <div style="text-align: center;">
 
 - Mediante un estudio se encontrará la ubicación  geográfica puntual a nivel municipal para la apertura del establecimiento, asimismo encontrando puntos de publicidad para la  difusión del concepto de la Comercialización  de tallas extras.
 
