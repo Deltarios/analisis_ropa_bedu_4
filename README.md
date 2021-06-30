@@ -70,10 +70,24 @@ Partimos de la importancia de dignificar el vestir de una persona con sobrepeso,
 
 > NOTA: Esto es en modo de resúmen, dentro de los Scripts se encuentra explicado cada detalle de la obtención de la información.
   
+  
+####  _Oportunidad de mercado_
+  
+- La industria textil ha proliferado en los territorios más extensos, su comercio ha crecido exponencialmente durante estas décadas, exponiendo una división de grupos con requerimientos especiales. 
+  
+- La obesidad y el sobrepeso han sido temas recurrentes en México, ahora adentrándonos a la vida cotidiana de este nicho , es evidente que más problemas se han creado alrededor de ellos.
+
+  
 #### _¿Cuáles son los pasos y objetivos de nuestro  estudio?_
   
   <img src="assets/image.png" align="center" height="250" width="350" hspace="10">
   <div style="text-align: center;">
+    
+
+    
+Actualmente el 70% del proceso de decisión de compra es completado antes de hablar con un vendedor. (The digital evolution in B2B Marketing)
+Solo el 29% de los compradores quieren hablar con un vendedor para conocer más sobre el producto, sin embargo el 62% consultará esa información en Internet. (Hubspot, 2016)
+71% de las compañías tienen como principal reto cerrar más oportunidades de venta (Hubspot, 2017)
 
 - Mediante un estudio se encontrará la ubicación  geográfica puntual a nivel municipal para la apertura del establecimiento, asimismo encontrando puntos de publicidad para la  difusión del concepto de la Comercialización  de tallas extras.
 
@@ -81,6 +95,15 @@ Partimos de la importancia de dignificar el vestir de una persona con sobrepeso,
 
 - Selección puntual de la ubicación de la tienda
 _(Para poder llevar a cabo estos dos puntos se procedió elegir un estado del Top 5 generado en el proyecto anterior para su análisis.)_
+    
+#### _Objetivos del Modulo_
+
+Facilitar el proceso de alta de productos de manera automatizada en un punto de venta basando en una clasificación programada, mediante el procesamiento de imágenes y redes neuronales.
+
+Mejor la experiencia en varios sistemas de recomendación y recuperación de moda.
+
+Mejorar la experiencia del usuario en la compra de ropa al brindar una herramienta de predicción de talla con base en parámetros 
+
   
 #### _SISTEMA SEGMENTADOR DE VESTIDOS_
 Para esta parte del proyecto realizaremos un Sistema Segmentador de Vestidos, que consiste en recibir como entrada imágenes de personas usando vestidos, y a partir de estás identificar que parte es el vestido, que parte es la piel, que parte es la persona y que parte es el fondo.
