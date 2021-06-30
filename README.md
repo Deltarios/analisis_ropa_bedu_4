@@ -27,17 +27,24 @@ Partimos de la importancia de dignificar el vestir de una persona con sobrepeso,
 -  [**`Ropas_Extra_Parte_4.ipynb`**](proyecto/Ropas_Extra_Parte_4.ipynb)
    Utilizar un algoritmo no supervizado, analizando las variables de porcentaje de obesidad vs el valor comercial. Igualmente se aplico una redución de componentes principales, donde se realizo un análisis de codo y silueta para saber mediante K-Means para conocer el número de clushter ideal para agrupar las tiendas resumido en 2 dimensiones. [**`Ver en Colab Aquí`**](https://colab.research.google.com/drive/1ijQ4b2bzkBR8L0fxwIjlBBJ9l4N2nz7h?usp=sharing)
    
--  [**`Calculadora_de_Ropa.ipynb`**](proyecto/Scrapping_google_populartimes.ipynb)
-   Contiene la metodología para extraer la información del API de google relacionada a las riendas de ropa del estado de Nuevo León. [**`Ver en Colab Aquí`**](https://colab.research.google.com/github/Deltarios/analisis_ropa_bedu_2/blob/master/proyecto/Scrapping_google_populartimes.ipynb)
+-  [**`Calculadora_de_Ropa.ipynb`**](proyecto/Calculadora_de_Ropa.ipynb)
+   A partir de diferentes parametros definidos por el usuario precide tu talla ideal. [**`Ver en Colab Aquí`**](https://colab.research.google.com/drive/1DBrCrecVHtp5bWTubz1kuxK6utpxZ_yF?usp=sharing)
    
--  [**`puntos_clave_publicidad.html`**](proyecto/puntos_clave_publicidad.html)
-   Mapa con los resultados sobre puntos estrategicos generados por el estudio de mercado del estado de Nuevo León (Se generá igualmente con     [**`Proyecto.ipynb`**](proyecto/proyecto.ipynb)).
+-  [**`Segmentar vestido.ipynb`**](proyecto/Segmentar%20vestido.ipynb)
+   Para esta parte del proyecto realizaremos un Sistema Segmentador de Vestidos, que consiste en recibir como entrada imágenes de personas usando vestidos, y a partir de estás identificar que parte es el vestido, que parte es la piel, que parte es la persona y que parte es el fondo.
 
--  [**`Archivos NUEVOLEON2`**](proyecto/Scrapping_google_populartimes.ipynb)
-   Archivos necesarios para hacer correr el script [**`Proyecto.ipynb`**](proyecto/proyecto.ipynb) <span style="color:red;">*importante que esten en la misma carpeta.</span>
+Esto con el fin de que, una vez entrenado el modelo, a partir de cuaqluier imagen cargada se pueda identificar únicamente el vestido.     [**`Proyecto.ipynb`**](https://colab.research.google.com/drive/1AaCHDD5Ll1BkBOram96JneoSBhoeUSAV)).
+  
+-  [**`Sistema de recomendación vestidos.ipynb`**](proyecto/Sistema%20de%20recomendación%20vestidos.ipynb)
+   Para esta parte del proyecto, crearemos un sistema de recomendación de vestidos que consistirá en buscar vestidos similares con base en la selección de un vestido en específico, todo esto a través del análisis de imágenes.     [**`Proyecto.ipynb`**](https://colab.research.google.com/drive/1AaCHDD5Ll1BkBOram96JneoSBhoeUSAV)).
 
--  [**`Datasets`**](dataset)
-   Grupo de datasets utilizados en el proyecto (El código se llaman en red, pero se incluye los datasets de la información si se requieren).
+[**`Datasets`**](dataset)
+   
+  Grupo de datasets utilizados en el proyecto (El código se llaman en red, pero se incluye los datasets de la información si se requieren).
+  
+-  [**`Segmentar vestidos`**](https://drive.google.com/drive/folders/1SnV_KbuCy49WOtdgTAbIAg-hiwY2HL6Q)
+-  [**`Sistema recomendación de vestidos`**](https://drive.google.com/drive/folders/1gZV2V5KCdSSxVvSXHvkmTK68ANvJtIpq)
+
    
 ---
   
